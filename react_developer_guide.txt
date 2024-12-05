@@ -1,0 +1,20 @@
+Component in React - The component in react is just like function in javascript.
+                     it return the html.
+                     the react has 2 ways to craete the component
+                     1. class based - class component
+                     2. function based - function component (hooks)
+
+JSX -Javacript & XML
+JSX - javascript + html + xml rules
+
+JSX Element - All the per-defined tag + user-defined tag are called JSX Element.
+
+JSX Rules 
+    1. If inside a component more than 1 jsx Element are required then keep inside parent jsx Element
+       example 
+            <section>
+                <h1>About Us</h1>
+                <p>sdf sdf sdf sdf sdf sdfs dsf dsf df</p>
+                <div>sed sdf df dfd g dffg dfsg dfgd f</p>
+                <b>wedft ghn efv gfb </b>
+            </section>
